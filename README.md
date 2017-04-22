@@ -2,7 +2,7 @@
 Login and upload file to server by Nextcloud api
 
 # doc
-Nextcloud API: https://github.com/nextcloud/android-library
+Nextcloud API: https://github.com/nextcloud/android-library<br>
 Examples: https://docs.nextcloud.com/server/9/developer_manual/android_library/examples.html
 
 # About
